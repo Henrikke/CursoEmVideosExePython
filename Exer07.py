@@ -4,11 +4,11 @@
 
 print('{:-^40}'.format(' Exercicio 7 '))
 
-n1 = int(input('informe a primeira nota da prova: '))
-n2 = int(input('informe a segunda nota da prova: '))
+n1 = float(input('informe a primeira nota da prova: '))
+n2 = float(input('informe a segunda nota da prova: '))
 
 m = (n1 + n2) / 2
 
-print(f'a media é {m}')
+print('a media é {:.2f}'.format(m))
 
 print('{:-^40}'.format(''))
