@@ -1,5 +1,5 @@
 """
-    faz arendodamento usando a funcao math.ceil
+    faz arendodamento usando a funcao math.trunc
 """
 
 from math import trunc
