@@ -4,6 +4,8 @@
 
 from random import shuffle
 
+print('{:=^60}'.format(''))
+
 n1 = str(input('digite o 1 aluno: '))
 n2 = str(input('digite o 2 aluno: '))
 n3 = str(input('digite o 3 aluno: '))
