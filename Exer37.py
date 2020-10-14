@@ -20,6 +20,6 @@ elif opcao == 2:
 elif opcao == 3:
     print('A conversao de {} para hexadecimal é \033[32m{}\033[m'.format(numero, hex(numero)[2:]))
 else:
-    print('Opcao Invalida')
+    print('\033[31mOpcao Invalida\033[m')
 
 print('='*60)
