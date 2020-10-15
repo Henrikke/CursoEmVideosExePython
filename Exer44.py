@@ -2,7 +2,7 @@
     algorimto que simula uma loja e calcula suas compras com descontos e ou juros
 """
 
-print('{:=^50}'.format(' Loja '))
+print(f'{" Loja ":=^50}')
 preco = float(input('preco das compras R$: '))
 print('='*50)
 print('''Informe a forma de pagamento das suas compras
