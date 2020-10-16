@@ -1,5 +1,5 @@
 """
-Tabuada
+    Tabuada
 """
 
 tabuada = int(input('informe qual tabuada: '))
